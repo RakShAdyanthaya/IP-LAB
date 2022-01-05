@@ -1,5 +1,5 @@
 
-
+# RAKSHA ADYANTHAYA
 # Develop a Program to perform linear transformation on a image 
 
 import cv2
@@ -21,6 +21,8 @@ cv2.waitKey(0)
 
 cv2.imwrite('rotated_image.jpg', rotated_image)
 
-output
+# output
 ![image](https://user-images.githubusercontent.com/96234626/148198022-8d429fdf-4095-44ae-9147-bfe3ac042b5c.png)
+
+
 ![image](https://user-images.githubusercontent.com/96234626/148198198-0b6633ce-68c7-4355-8890-3ce26d787124.png)
