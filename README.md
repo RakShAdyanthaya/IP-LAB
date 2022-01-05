@@ -1,5 +1,5 @@
 
-# RAKSHA ADYANTHAYA
+# RAKSHA ADYANTHAYA VTH SEM IP LAB
 # Develop a Program to perform linear transformation on a image 
 
 import cv2
